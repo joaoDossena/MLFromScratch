@@ -36,8 +36,8 @@ def visualize_svm():
     x1_1_m = get_hyperplane_value(x0_1, clf.w, clf.b, -1)
     x1_2_m = get_hyperplane_value(x0_2, clf.w, clf.b, -1)
 
-    x1_1_p = get_hyperplane_value(x0_1, clf.w, clf.b, 0)
-    x1_2_p = get_hyperplane_value(x0_2, clf.w, clf.b, 0)
+    x1_1_p = get_hyperplane_value(x0_1, clf.w, clf.b, 1)
+    x1_2_p = get_hyperplane_value(x0_2, clf.w, clf.b, 1)
 
 
     ax.plot([x0_1, x0_2], [x1_1, x1_2], "y--")
