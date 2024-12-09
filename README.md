@@ -1,6 +1,6 @@
 # MLFromScratch
 
-This repository is intended to accelerate learning on foundational aspects of ML algorithms
+This repository is intended to accelerate learning on foundational aspects of ML algorithms.
 
 Algorithms from 1 to 10 were implemented alongside [this playlist](https://youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd&si=RGWpGwS_hmT4L-Ax) by [AssemblyAI](https://www.assemblyai.com/).
 
